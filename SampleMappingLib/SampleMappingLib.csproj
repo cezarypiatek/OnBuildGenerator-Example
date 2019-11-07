@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MappingGenerator.OnBuildGenerator" Version="1.11.320" />
+    <PackageReference Include="SmartCodeGenerator.Engine" Version="1.0.2" />
+  </ItemGroup>
+
+</Project>
